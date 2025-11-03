@@ -1,0 +1,5 @@
+All the credits and pixelart work goes towards Mojang and some little modifications made that of to keep the original feel of Cubyz.
+Therefore, you can refer to the https://github.com/Mojang/bedrock-samples if you're looking for an official github by Mojang AB
+
+This Project is neither affiliated with Minecraft/Cubyz nor supported by.
+Feel free to modify this MC texture pack for your own purposes.
